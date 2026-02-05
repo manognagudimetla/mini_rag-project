@@ -126,3 +126,4 @@ vector database such as Qdrant, Pinecone, or Weaviate.
 
 Chunking parameters and Top-K retrieval values can be tuned based on
 document size and latency requirements.
+RESUME LINK :https://drive.google.com/file/d/1m3GbxdnhCBLXoVEEoBOB3LG8THDJ7LEc/view?usp=drivesdk
