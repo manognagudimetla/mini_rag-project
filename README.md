@@ -1,4 +1,4 @@
-# Mini-RAG Application (PDF-based)
+# Mini-RAG Application 
 
 This project implements a small Retrieval-Augmented Generation (RAG) pipeline
 using a PDF file as the knowledge source.
@@ -99,8 +99,7 @@ streamlit run app.py
 
 Step 3 — Open browser
 
-http://localhost:8501
-
+https://2pa3vpwadsm2s5mcwcex2f.streamlit.app/
 Upload the sample PDF and enter a query.
 
 ------------------------------------------------------------
